@@ -17,7 +17,6 @@ body {
   height: 100vh;
   font-family: "Manrope", sans-serif;
   background-color: var(--Dark-Blue);
-  overflow: hidden;
 }
 
 .box {
@@ -58,7 +57,7 @@ body {
   border: none;
   background-color: var(--Neon-Green);
   position: absolute;
-  bottom: -10%;
+  bottom: -33px;
   transition: 0.3s ease;
   -webkit-transition: 0.3s ease;
   -moz-transition: 0.3s ease;
